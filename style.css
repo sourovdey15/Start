@@ -1,4 +1,20 @@
+.body {
+    margin-top: 60px;
+}
+.cointainer {
+    width: 60%;
+    margin: auto;
+
+}
+h1{
+    text-align: center;
+
+}
 label {
     display: block;
     margin: 10px 10px;
+}
+.button-area {
+    margin:20px 80px;
+    text-align: center;
 }
